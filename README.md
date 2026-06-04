@@ -1,10 +1,10 @@
-Spam Email Detection using Machine Learning
+📧 Spam Email Detection using Machine Learning
 
-Project Overview
+ Project Overview
 
 This project is a machine learning-based system that identifies whether an email is spam or not spam by analyzing its content. The system uses natural language processing and classification techniques to automatically filter unwanted emails and improve email security.
 
-Objectives
+ Objectives
 
 . Detect spam emails automatically
 
@@ -16,7 +16,7 @@ Objectives
 
 . Achieve high accuracy in email prediction
 
-Features
+ Features
 
 . Spam and ham email classification
 
@@ -30,7 +30,7 @@ Features
 
 . User-friendly and efficient system
 
-Technologies Used
+ Technologies Used
 
 . Python
 
@@ -42,9 +42,15 @@ Technologies Used
 
 . Jupyter Notebook
 
+. Natural Language Processing (NLP)
+
 Dataset
 
 . Spam Email Dataset containing labeled spam and non-spam emails
+
+. Used for training and testing the machine learning model
+
+. Contains email content and corresponding spam/ham labels
 
 Future Enhancements
 
@@ -54,5 +60,11 @@ Future Enhancements
 
 . Web application deployment
 
-. Enhanced prediction accuracy using advanced NLP models# Spam-Email-Detection
-A machine learning project to detect spam emails.
+. Enhanced prediction accuracy using advanced NLP models
+
+. Integration with email services for automatic spam detection
+
+Developed By
+
+Sivasathya
+Artificial Intelligence and Machine Learning (AIML)
