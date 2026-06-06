@@ -1,3 +1,13 @@
+User
+  ↓
+Email
+  ↓
+Preprocessing
+  ↓
+Machine Learning Model
+  ↓
+Prediction
+(Spam / Not Spam)
 📧 Spam Email Detection using Machine Learning
 
  Project Overview
